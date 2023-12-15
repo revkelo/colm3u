@@ -7,6 +7,16 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito FreeLive Latam (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 05 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_05/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network 
+http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel 
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr 
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil", Discovery Kids 
+http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CNCHDOnline.co" tvg-logo="https://i.ibb.co/h246PMw/download-9.png" group-title="General",CNC HD Online (1080p)
